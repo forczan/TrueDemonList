@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Do not submit levels harder than Aeternus
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Do not jump or begin with the hardest level, and do not verify aeternus, (we are humans and we make progress slower not like rabbits jumping=
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
