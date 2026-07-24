@@ -103,7 +103,7 @@ export default {
                         Do not submit levels harder than Aeternus
                     </p>
                     <p>
-                        Do not jump or begin with the hardest level, and do not verify aeternus, (we are humans and we make progress slower not like rabbits jumping=
+                        Do not jump or begin with the hardest level, and do not verify aeternus, (we are humans and we make progress slower not like rabbits jumping)
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
